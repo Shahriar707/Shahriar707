@@ -1,54 +1,34 @@
-<h1 align="center">Hi there, I'm Shahriar 👋</h1>
+<h1 align="center">Hi 👋, I'm Shahriar Ahmed</h1>
+<h3 align="center">A passionate 🎓 Software Engineer | 💻 Python, Django, Odoo | 📊 Blockchain & Security Enthusiast</h3>
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzEeV3Y65plNxhWlcURLVQSuTtOEGgJ1adWw&amp;s" alt="Profile Banner">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar707&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar707" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar707" alt="shahriar707" /></a> </p>
+
+- 🔭 I’m currently working as **Software Engineer in BJIT Limited**
+
+- 🌱 I’m currently learning **Python, Django, Advanced Odoo Development and Network Security**
+
+- 👨‍💻 Linked Profile [https://www.linkedin.com/in/shahriar-ahmed-a5167820a/](https://www.linkedin.com/in/shahriar-ahmed-a5167820a/)
+
+- 💬 Ask me about **Python, Django, Odoo & Web Development**
+
+- 📫 How to reach me **shahriarahmed99bd@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EuOhvMq0DfsiqxTWQRzB9ldWzikV3-Kf?usp=sharing](https://drive.google.com/drive/folders/1EuOhvMq0DfsiqxTWQRzB9ldWzikV3-Kf?usp=sharing)
+
+- ⚡ Fun fact **I love automating workflows & optimizing backend logic!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-## 🚀 About Me
-🎓 **Software Engineer** | 💻 **Trained Odoo Developer** | 📊 **Blockchain & Security Enthusiast**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on **Odoo 17 as a Trainee Software Engineer (Odoo) in BJIT Group**  
-- 🌱 I’m learning **Python, Django, Advanced Odoo Development and Network Security**  
-- 💬 Ask me about **Python, Django, Odoo & Web Development**  
-- 📫 Reach me at **shahriarahmed99bd@gmail.com**  
-- ⚡ Fun fact: **I love automating workflows & optimizing backend logic!**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar707&show_icons=true&locale=en&layout=compact" alt="shahriar707" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar707&show_icons=true&locale=en" alt="shahriar707" /></p>
 
-## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,odoo,django,django-rest-framework,html,css,xml,owl,postgres,linux,git,jira" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar707&" alt="shahriar707" /></p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahriar707&show_icons=true&theme=dark&count_private=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahriar707&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar707&layout=compact&theme=dark" />
-</p>
-
----
-
-## 📬 Connect with Me
-<p align="center">
-  <a href="[https://www.linkedin.com/in/shahriar707](https://www.linkedin.com/in/shahriar-ahmed-a5167820a/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/shahriar.ahmed.37625">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
-  </a>
-  <a href="shahriarahmed99bd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 🎯 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriar707&theme=react-dark" />
-</p>
